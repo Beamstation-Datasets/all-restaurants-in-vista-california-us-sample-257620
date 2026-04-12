@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Vista, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Vista, California, US",
+  "export_job_id": "46c849e0-fe39-49df-b4a7-7fbfb954c04b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 257620,
+  "location_name": "Vista",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-vista-california-us-sample-257620",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/257620/beamstation_257620_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.82,
+  "sample_records": 16,
+  "sample_sha256": "4633bd5258fd50fdbc98a24e843192e0591d2cc38f24a26a67aa931c3cf61854",
+  "sample_size_bytes": 81737,
+  "total_records": 163,
+  "updated_at": "2026-03-31T14:54:24.075757+00:00"
+}
