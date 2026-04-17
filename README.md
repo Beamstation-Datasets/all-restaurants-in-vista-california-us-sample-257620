@@ -1,6 +1,6 @@
 # All Restaurants in Vista, California, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `257620` |
 | Location | Vista |
 | Category | Restaurants |
-| Full dataset size | 163 records |
-| Free sample size | 16 records (9.82%) |
-| Last export | 2026-03-31T14:54:24.075757+00:00 |
+| Full dataset size | 202 records |
+| Free sample size | 20 records (9.9%) |
+| Last export | 2026-04-14T15:30:04.122947+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-vista-california-us-sample-257620/releases/download/sample-latest/beamstation_257620_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
