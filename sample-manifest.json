@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c9efc185-b412-4a52-8364-baa51ba85839",
+  "export_job_id": "1763aca9-05ba-4396-b373-637c4c51276b",
   "id_short": 257620,
-  "published_at": "2026-04-21T19:13:56Z",
+  "published_at": "2026-04-28T19:20:34Z",
   "repo_name": "all-restaurants-in-vista-california-us-sample-257620",
   "sample_asset_name": "beamstation_257620_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/257620/beamstation_257620_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "0716d4c8d8d00f67926c45a8494f24d6ac8e6632319acdcf4030e9be32f974a6",
-  "sample_size_bytes": 75628,
-  "total_records": 195
+  "sample_records": 23,
+  "sample_sha256": "b27e608f3c6164ef5e23136b9cbda9fb74a071c18466e41a5b65bdd1872a4361",
+  "sample_size_bytes": 98533,
+  "total_records": 237
 }
